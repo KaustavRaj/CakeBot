@@ -1,7 +1,5 @@
 # CakeBot
 
-* * *
-
 Customer self service chat bot software
 
 <u>
