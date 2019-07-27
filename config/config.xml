@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Installer>
+    <Name>CakeBot</Name>
+    <Version>1.1.1</Version>
+    <Title>CakeBotInstaller</Title>
+    <Publisher>Kaustav Bhattacharjee - IIITG, BTech CSE 2nd Semester</Publisher>
+    <InstallerWindowIcon>setup_logo</InstallerWindowIcon>
+    <InstallerApplicationIcon>setup_logo</InstallerApplicationIcon>
+    <Logo>setup_logo.png</Logo>
+    <RunProgram>@TargetDir@/CakeBot</RunProgram>
+    <RunProgramDescription>Self cake ordering chat bot</RunProgramDescription>
+    <StartMenuDir>CakeBot</StartMenuDir>
+    <MaintenanceToolName>BotMaintenanceTool</MaintenanceToolName>
+
+    <TargetDir>@HomeDir@/CakeBot</TargetDir>
+    <AdminTargetDir>@RootDir@/Cake Bot</AdminTargetDir>
+</Installer>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Package>
+    <DisplayName>CakeBot</DisplayName>
+    <Description>Note: python must be pre-installed from https://www.python.org/downloads/, and the path to the python interpreter must be saved as environment variable</Description>
+    <Version>1.1.1</Version>
+    <ReleaseDate>2019-07-21</ReleaseDate>
+    <Name>CakeBot</Name>
+    <Licenses>
+        <License name="License Agreement" file="licence.txt" />
+    </Licenses>
+    <Script>installscript.qs</Script>
+    <DownloadableArchives>CakeBot.7z</DownloadableArchives>
+</Package>
