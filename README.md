@@ -12,11 +12,9 @@ These instructions will guide you through how to install & deploy the software o
 
 ### Prerequisites
 
-    Windows 10 Operating System (64-bit only)
-
-    Python must be installed from [here](https://www.python.org/downloads/)
-
-    Python interpreter path must be set as an environment variable like [this](https://docs.python.org/3/using/windows.html)
+*   Windows 10 Operating System (64-bit only)
+*   Python must be installed from [here](https://www.python.org/downloads/)
+*   Python interpreter path must be set as an environment variable like [this](https://docs.python.org/3/using/windows.html)
 
 ### Installing
 
